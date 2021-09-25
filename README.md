@@ -11,5 +11,5 @@
 - bs4
 - requests
 - pandas
-
+- os
 
